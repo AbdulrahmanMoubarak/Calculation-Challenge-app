@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Calculation Challenge V2</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="screen1_title">قم بالحسابات بشكل اسرع</string>
+    <string name="screen1_description">اختبر قدرتك في حل المسائل في وقت محدد\n هل يمكنك فعلها</string>
+    <string name="screen2_title">احفظ بياناتك</string>
+    <string name="screen2_description">احصل على قاعدة بيانات كاملة \n و قم بحفظ بيانات الحل</string>
+    <string name="next">التالي</string>
+    <string name="finish">ابدأ</string>
+    <string name="start">ابدأ الحل</string>
+    <string name="settings">الاعدادات</string>
+    <string name="quit">خروج</string>
+    <string name="top_recs">أعلى الاحصائيات</string>
+    <string name="choose_lang">اختر اللغة</string>
+    <string name="lang_ar">العربية</string>
+    <string name="lang_en">English</string>
+    <string name="submit">تطبيق</string>
+    <string name="solve_eq">حل المعادلة التالية: </string>
+    <string name="enter_sol">أدخل الحل</string>
+    <string name="accept">تم</string>
+    <string name="startsol">ابدأ</string>
+    <string name="channel_description">هذه القناة تستخدم لارسال الاشعارات عند نفاذ الوقت</string>
+    <string name="time">انتهى الوقت</string>
+    <string name="unfortunately">للأسف !!</string>
+    <string name="notification">"للأسف لم تستطع حل المعادلة في الوقت المناسب"</string>
+    <string name="fail">لقد فشلت في حل المعادلة!</string>
+    <string name="Continue">استمرار</string>
+    <string name="congrats">تهانينا لقد فعلتها!</string>
+    <string name="save">حفظ</string>
+    <string name="go_back">رجوع</string>
+    <string name="save_success">تم الحفظ بنجاح</string>
+    <string name="save_fail">فشل الحفظ</string>
+    <string name="deleteAll">مسح كل البيانات</string>
+    <string name="data_deleted">تم محو البيانات</string>
+    <string name="enter_name">أدخل اسمك</string>
+    <string name="no_data">لا توجد نتائج للعرض</string>
+</resources>

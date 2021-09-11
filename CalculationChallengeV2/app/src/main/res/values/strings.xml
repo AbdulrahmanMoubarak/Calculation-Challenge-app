@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Calculation Challenge V2</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="screen1_title">Calculate faster!</string>
+    <string name="screen1_description">Get an equation within a time limit \nsee if you can solve it</string>
+    <string name="screen2_title">Save your data</string>
+    <string name="screen2_description">Get access to a special database to \nsave records you made</string>
+    <string name="next">Next</string>
+    <string name="finish">Start</string>
+    <string name="start">Start Equation</string>
+    <string name="settings">Settings</string>
+    <string name="quit">Exit</string>
+    <string name="top_recs">Top Records</string>
+    <string name="choose_lang">Choose a language</string>
+    <string name="lang_ar">العربية</string>
+    <string name="lang_en">English</string>
+    <string name="submit">Apply</string>
+    <string name="solve_eq">Solve the current equation:</string>
+    <string name="enter_sol">Enter solution</string>
+    <string name="accept">Submit</string>
+    <string name="startsol">Start</string>
+    <string name="time">Timeout</string>
+    <string name="unfortunately">Unfortunately</string>
+    <string name="notification">"Unfortunately didn't solve the equation in time"</string>
+    <string name="channel_description">this channel is used to send notification after timeout</string>
+    <string name="fail">You failed to solve the equation!</string>
+    <string name="Continue">Continue</string>
+    <string name="congrats">Congratulations you made it!</string>
+    <string name="save">Save</string>
+    <string name="go_back">Back</string>
+    <string name="save_success">Saved Successfully</string>
+    <string name="save_fail">Failed To Save</string>
+    <string name="deleteAll">Clear Records</string>
+    <string name="data_deleted">All data erased</string>
+    <string name="enter_name">Enter your name</string>
+    <string name="no_data">There are no records to display</string>
+</resources>
